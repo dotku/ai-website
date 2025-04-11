@@ -1,8 +1,6 @@
 # AI Website
 
-## Intro
-
-Refer to allbcp.com generate a website.
+Compare with all AI generated website based on allbcp.com.
 
 ## Results
 
